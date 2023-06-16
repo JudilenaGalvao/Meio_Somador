@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Aluno\Documents\MeioSomador\simulation\qsim
+vMeioSomador
+Z1 I=aVGW@La6@NHZ3JV80mmc1
+Z2 VBIeSS>EhIE3J:Fzi<4?[E1
+Z3 dC:\Users\Aluno\Documents\MeioSomador\simulation\qsim
+Z4 w1686158000
+Z5 8MeioSomador.vo
+Z6 FMeioSomador.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 n@meio@somador
+!i10b 1
+Z10 !s100 D6n[3gT5f_1GZ:EI2lFC22
+!s85 0
+Z11 !s108 1686158003.958000
+Z12 !s107 MeioSomador.vo|
+Z13 !s90 -work|work|MeioSomador.vo|
+!s101 -O0
+vMeioSomador_vlg_check_tst
+!i10b 1
+!s100 Rn<MJG@NH^`6gHIDU^Bfm3
+IMbKFzn8eKmkT^cEK[inQF0
+V91>KF5T9[6M0]JRd?B7W]3
+R3
+Z14 w1686157999
+Z15 8MeioSomador.vt
+Z16 FMeioSomador.vt
+L0 59
+R7
+r1
+!s85 0
+31
+Z17 !s108 1686158004.130000
+Z18 !s107 MeioSomador.vt|
+Z19 !s90 -work|work|MeioSomador.vt|
+!s101 -O0
+R8
+n@meio@somador_vlg_check_tst
+vMeioSomador_vlg_sample_tst
+!i10b 1
+!s100 0nl[3oAMB>XcWC]S?iNQC1
+Id08JK0ZZ:^4:EBe?0emQf2
+VPUdkQ=A7onCEV]i9`41JZ1
+R3
+R14
+R15
+R16
+L0 29
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R8
+n@meio@somador_vlg_sample_tst
+vMeioSomador_vlg_vec_tst
+!i10b 1
+!s100 Sib3VgXhFX8@iHg002a;h2
+IQ6czf1k<OC;?k1^EC9NEI0
+Vc3UMR5L[<klI4P@VCkAko0
+R3
+R14
+R15
+R16
+L0 181
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R8
+n@meio@somador_vlg_vec_tst
